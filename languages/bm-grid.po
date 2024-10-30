@@ -1,0 +1,542 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BM Grid\n"
+"POT-Creation-Date: 2017-02-28 12:38+0800\n"
+"PO-Revision-Date: 2017-02-28 12:38+0800\n"
+"Last-Translator: uiueux <uiueux@gmail.com>\n"
+"Language-Team: bwsm studio <uiueux@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inc_php/admin/config.php:12
+msgid "BM Gallery Post Options"
+msgstr ""
+
+#: ../inc_php/admin/config.php:21
+msgid "For Thumbnail"
+msgstr ""
+
+#: ../inc_php/admin/config.php:28
+msgid "Default"
+msgstr ""
+
+#: ../inc_php/admin/config.php:29
+msgid "External Link"
+msgstr ""
+
+#: ../inc_php/admin/config.php:30
+msgid "Lightbox Video"
+msgstr ""
+
+#: ../inc_php/admin/config.php:34
+msgid "External Link URL"
+msgstr ""
+
+#: ../inc_php/admin/config.php:42
+msgid "Embed Video Code"
+msgstr ""
+
+#: ../inc_php/admin/config.php:55
+msgid "Insert Gallery"
+msgstr ""
+
+#: ../inc_php/admin/config.php:64 ../inc_php/admin/config.php:637
+msgid "Shortcode"
+msgstr ""
+
+#: ../inc_php/admin/config.php:74
+msgid "Insert"
+msgstr ""
+
+#: ../inc_php/admin/config.php:84
+msgid "BM Gallery General Options"
+msgstr ""
+
+#: ../inc_php/admin/config.php:91
+msgid "Lightbox Skin"
+msgstr ""
+
+#: ../inc_php/admin/config.php:98
+msgid "Dark"
+msgstr ""
+
+#: ../inc_php/admin/config.php:99
+msgid "Light"
+msgstr ""
+
+#: ../inc_php/admin/config.php:103
+msgid "Image Lazy Load"
+msgstr ""
+
+#: ../inc_php/admin/config.php:115
+msgid "Gallery Settings"
+msgstr ""
+
+#: ../inc_php/admin/config.php:122
+msgid "Custom Grid Portfolio"
+msgstr ""
+
+#: ../inc_php/admin/config.php:126
+msgid "Masonry Portfolio"
+msgstr ""
+
+#: ../inc_php/admin/config.php:127
+msgid "Standard Grid Portfolio"
+msgstr ""
+
+#: ../inc_php/admin/config.php:128
+msgid "Irregular List"
+msgstr ""
+
+#: ../inc_php/admin/config.php:135
+msgid "Image Source"
+msgstr ""
+
+#: ../inc_php/admin/config.php:143 ../inc_php/admin/fields.php:134
+msgid "Edit Your Portfolio Layout"
+msgstr ""
+
+#: ../inc_php/admin/config.php:149
+msgid "Item Style"
+msgstr ""
+
+#: ../inc_php/admin/config.php:156
+msgid "Image"
+msgstr ""
+
+#: ../inc_php/admin/config.php:157
+msgid "Image + Text"
+msgstr ""
+
+#: ../inc_php/admin/config.php:161
+msgid "Transparent for Mask"
+msgstr ""
+
+#: ../inc_php/admin/config.php:168
+msgid "100%"
+msgstr ""
+
+#: ../inc_php/admin/config.php:169
+msgid "90%"
+msgstr ""
+
+#: ../inc_php/admin/config.php:170
+msgid "80%"
+msgstr ""
+
+#: ../inc_php/admin/config.php:175 ../inc_php/admin/config.php:425
+msgid "Show Title"
+msgstr ""
+
+#: ../inc_php/admin/config.php:183
+msgid "Show Category"
+msgstr ""
+
+#: ../inc_php/admin/config.php:190 ../inc_php/admin/config.php:210
+#: ../inc_php/admin/config.php:432 ../inc_php/admin/config.php:561
+msgid "Text Align"
+msgstr ""
+
+#: ../inc_php/admin/config.php:197 ../inc_php/admin/config.php:217
+#: ../inc_php/admin/config.php:281 ../inc_php/admin/config.php:397
+#: ../inc_php/admin/config.php:439 ../inc_php/admin/config.php:534
+#: ../inc_php/admin/config.php:556
+msgid "Center"
+msgstr ""
+
+#: ../inc_php/admin/config.php:198 ../inc_php/admin/config.php:218
+#: ../inc_php/admin/config.php:282 ../inc_php/admin/config.php:398
+#: ../inc_php/admin/config.php:440 ../inc_php/admin/config.php:535
+#: ../inc_php/admin/config.php:555
+msgid "Left"
+msgstr ""
+
+#: ../inc_php/admin/config.php:199 ../inc_php/admin/config.php:219
+#: ../inc_php/admin/config.php:283 ../inc_php/admin/config.php:399
+#: ../inc_php/admin/config.php:441 ../inc_php/admin/config.php:536
+#: ../inc_php/admin/config.php:557
+msgid "Right"
+msgstr ""
+
+#: ../inc_php/admin/config.php:200 ../inc_php/admin/config.php:562
+msgid "Top Left"
+msgstr ""
+
+#: ../inc_php/admin/config.php:201
+msgid "Top Center"
+msgstr ""
+
+#: ../inc_php/admin/config.php:202 ../inc_php/admin/config.php:565
+msgid "Top Right"
+msgstr ""
+
+#: ../inc_php/admin/config.php:203 ../inc_php/admin/config.php:564
+msgid "Bottom Left"
+msgstr ""
+
+#: ../inc_php/admin/config.php:204
+msgid "Bottom Center"
+msgstr ""
+
+#: ../inc_php/admin/config.php:205 ../inc_php/admin/config.php:567
+msgid "Bottom Right"
+msgstr ""
+
+#: ../inc_php/admin/config.php:224
+msgid "Text Padding"
+msgstr ""
+
+#: ../inc_php/admin/config.php:232 ../inc_php/admin/config.php:351
+msgid "What Thumbnail Does"
+msgstr ""
+
+#: ../inc_php/admin/config.php:239 ../inc_php/admin/config.php:358
+msgid "Open The Post Item"
+msgstr ""
+
+#: ../inc_php/admin/config.php:240 ../inc_php/admin/config.php:359
+msgid "Open Lightbox"
+msgstr ""
+
+#: ../inc_php/admin/config.php:241 ../inc_php/admin/config.php:360
+msgid "Open External Link"
+msgstr ""
+
+#: ../inc_php/admin/config.php:245 ../inc_php/admin/config.php:364
+#: ../inc_php/admin/config.php:501
+msgid "Item Spacing"
+msgstr ""
+
+#: ../inc_php/admin/config.php:252 ../inc_php/admin/config.php:373
+#: ../inc_php/admin/config.php:510
+msgid "Normal"
+msgstr ""
+
+#: ../inc_php/admin/config.php:253
+msgid "10"
+msgstr ""
+
+#: ../inc_php/admin/config.php:254
+msgid "20"
+msgstr ""
+
+#: ../inc_php/admin/config.php:255
+msgid "30"
+msgstr ""
+
+#: ../inc_php/admin/config.php:256
+msgid "40"
+msgstr ""
+
+#: ../inc_php/admin/config.php:257 ../inc_php/admin/config.php:371
+#: ../inc_php/admin/config.php:508
+msgid "No Spacing"
+msgstr ""
+
+#: ../inc_php/admin/config.php:261 ../inc_php/admin/config.php:377
+#: ../inc_php/admin/config.php:514
+msgid "Show Filter"
+msgstr ""
+
+#: ../inc_php/admin/config.php:268 ../inc_php/admin/config.php:384
+#: ../inc_php/admin/config.php:521
+msgid "No"
+msgstr ""
+
+#: ../inc_php/admin/config.php:269 ../inc_php/admin/config.php:385
+#: ../inc_php/admin/config.php:522
+msgid "Show Filter On Header With Menu"
+msgstr ""
+
+#: ../inc_php/admin/config.php:270 ../inc_php/admin/config.php:386
+#: ../inc_php/admin/config.php:523
+msgid "Above Gallery"
+msgstr ""
+
+#: ../inc_php/admin/config.php:274 ../inc_php/admin/config.php:390
+#: ../inc_php/admin/config.php:527
+msgid "Filter Align"
+msgstr ""
+
+#: ../inc_php/admin/config.php:287
+msgid "Show Top Spacer"
+msgstr ""
+
+#: ../inc_php/admin/config.php:300 ../inc_php/admin/config.php:409
+#: ../inc_php/admin/config.php:589
+msgid "Category"
+msgstr ""
+
+#: ../inc_php/admin/config.php:308 ../inc_php/admin/config.php:417
+#: ../inc_php/admin/config.php:597
+msgid "Order"
+msgstr ""
+
+#: ../inc_php/admin/config.php:316 ../inc_php/admin/config.php:453
+msgid "Columns"
+msgstr ""
+
+#: ../inc_php/admin/config.php:323 ../inc_php/admin/config.php:460
+msgid "2"
+msgstr ""
+
+#: ../inc_php/admin/config.php:324 ../inc_php/admin/config.php:461
+msgid "3"
+msgstr ""
+
+#: ../inc_php/admin/config.php:325 ../inc_php/admin/config.php:462
+msgid "4"
+msgstr ""
+
+#: ../inc_php/admin/config.php:326 ../inc_php/admin/config.php:463
+msgid "5"
+msgstr ""
+
+#: ../inc_php/admin/config.php:327 ../inc_php/admin/config.php:464
+msgid "6"
+msgstr ""
+
+#: ../inc_php/admin/config.php:331 ../inc_php/admin/config.php:468
+#: ../inc_php/admin/config.php:605
+msgid "Post Number per Page"
+msgstr ""
+
+#: ../inc_php/admin/config.php:339 ../inc_php/admin/config.php:476
+#: ../inc_php/admin/config.php:613
+msgid "Pagination"
+msgstr ""
+
+#: ../inc_php/admin/config.php:346 ../inc_php/admin/config.php:483
+#: ../inc_php/admin/config.php:620
+msgid "Load More Button"
+msgstr ""
+
+#: ../inc_php/admin/config.php:347 ../inc_php/admin/config.php:484
+#: ../inc_php/admin/config.php:621
+msgid "Infiniti Scroll"
+msgstr ""
+
+#: ../inc_php/admin/config.php:372 ../inc_php/admin/config.php:509
+msgid "Narrow"
+msgstr ""
+
+#: ../inc_php/admin/config.php:445
+msgid "Show Padding"
+msgstr ""
+
+#: ../inc_php/admin/config.php:488
+msgid "Grid Ratio"
+msgstr ""
+
+#: ../inc_php/admin/config.php:495
+msgid "4:3"
+msgstr ""
+
+#: ../inc_php/admin/config.php:496
+msgid "16:9"
+msgstr ""
+
+#: ../inc_php/admin/config.php:497
+msgid "1:1"
+msgstr ""
+
+#: ../inc_php/admin/config.php:546
+msgid "Portfolio Layout Builder"
+msgstr ""
+
+#: ../inc_php/admin/config.php:554
+msgid "Image Align"
+msgstr ""
+
+#: ../inc_php/admin/config.php:563
+msgid "Middle Left"
+msgstr ""
+
+#: ../inc_php/admin/config.php:566
+msgid "Middle Right"
+msgstr ""
+
+#: ../inc_php/admin/config.php:571
+msgid "Top Padding"
+msgstr ""
+
+#: ../inc_php/admin/config.php:572
+msgid "100px Spacing"
+msgstr ""
+
+#: ../inc_php/admin/config.php:573
+msgid "Overlap"
+msgstr ""
+
+#: ../inc_php/admin/config.php:577
+msgid "Image Width"
+msgstr ""
+
+#: ../inc_php/admin/config.php:578
+msgid "30%"
+msgstr ""
+
+#: ../inc_php/admin/config.php:579
+msgid "40%"
+msgstr ""
+
+#: ../inc_php/admin/config.php:580
+msgid "50%"
+msgstr ""
+
+#: ../inc_php/admin/config.php:581
+msgid "60%"
+msgstr ""
+
+#: ../inc_php/admin/config.php:582
+msgid "70%"
+msgstr ""
+
+#: ../inc_php/admin/config.php:625
+msgid "Show Tags"
+msgstr ""
+
+#: ../inc_php/admin/fields.php:56 ../inc_php/admin/fields.php:110
+#: ../inc_php/admin/fields.php:128
+msgid "No options"
+msgstr ""
+
+#: ../inc_php/admin/fields.php:62
+msgid "On"
+msgstr ""
+
+#: ../inc_php/admin/fields.php:63
+msgid "Off"
+msgstr ""
+
+#: ../inc_php/admin/fields.php:83
+msgid "Select a Category"
+msgstr ""
+
+#: ../inc_php/admin/fields.php:88
+msgid "No Categories"
+msgstr ""
+
+#: ../inc_php/admin/fields.php:95
+msgid "Please Select"
+msgstr ""
+
+#: ../inc_php/admin/fields.php:96
+msgid "Title"
+msgstr ""
+
+#: ../inc_php/admin/fields.php:97
+msgid "Date"
+msgstr ""
+
+#: ../inc_php/admin/fields.php:98
+msgid "ID"
+msgstr ""
+
+#: ../inc_php/admin/fields.php:99
+msgid "Modified"
+msgstr ""
+
+#: ../inc_php/admin/fields.php:100
+msgid "Author"
+msgstr ""
+
+#: ../inc_php/admin/fields.php:101
+msgid "Comment count"
+msgstr ""
+
+#: ../inc_php/admin/fields.php:118
+msgid "Ascending"
+msgstr ""
+
+#: ../inc_php/admin/fields.php:119
+msgid "Descending"
+msgstr ""
+
+#: ../inc_php/admin/functions.php:154
+msgid "saving"
+msgstr ""
+
+#: ../inc_php/admin/functions.php:154
+msgid "saved"
+msgstr ""
+
+#: ../inc_php/admin/functions.php:154
+msgid "save"
+msgstr ""
+
+#: ../inc_php/admin/functions.php:178
+msgid "Close"
+msgstr ""
+
+#: ../inc_php/admin/functions.php:179
+msgid "Save"
+msgstr ""
+
+#: ../inc_php/admin/functions.php:205
+msgid "No Gallery"
+msgstr ""
+
+#: ../inc_php/interface/functions.php:8
+msgid "LOAD MORE ARTICLES"
+msgstr ""
+
+#: ../inc_php/interface/functions.php:9
+msgid "LOADING..."
+msgstr ""
+
+#: ../inc_php/interface/functions.php:36
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../ux-gallery.php:123
+msgid "General Options"
+msgstr ""
+
+#: ../ux-gallery.php:141 ../ux-gallery.php:142 ../ux-gallery.php:153
+msgid "BM Grid"
+msgstr ""
+
+#: ../ux-gallery.php:143
+msgid "Add New"
+msgstr ""
+
+#: ../ux-gallery.php:144
+msgid "Add New Grid"
+msgstr ""
+
+#: ../ux-gallery.php:145
+msgid "Edit Grid"
+msgstr ""
+
+#: ../ux-gallery.php:146
+msgid "New Grid"
+msgstr ""
+
+#: ../ux-gallery.php:147
+msgid "All Grids"
+msgstr ""
+
+#: ../ux-gallery.php:148
+msgid "View Grid"
+msgstr ""
+
+#: ../ux-gallery.php:149
+msgid "Search Grids"
+msgstr ""
+
+#: ../ux-gallery.php:150
+msgid "No Grid found."
+msgstr ""
+
+#: ../ux-gallery.php:151
+msgid "No Grid found in Trash."
+msgstr ""
